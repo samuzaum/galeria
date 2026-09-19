@@ -16,6 +16,12 @@ via GitHub Pages.
 4. Rode `node scripts/build.js` pra atualizar `data/albums.json`.
 5. Commit e push. O GitHub Pages atualiza sozinho em 1-2 minutos.
 
+## Mexeu no `style.css` ou `app.js`?
+
+Sobe o numero da versao em `index.html` (`style.css?v=2` -> `?v=3`, mesma coisa pro
+`app.js`). Sem isso o navegador de quem ja visitou o site fica servindo a versao
+antiga em cache, mesmo com o deploy novo no ar.
+
 ## Rodar localmente
 
 Qualquer servidor estatico funciona (precisa ser via http, `file://` nao carrega o JSON).
