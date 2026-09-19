@@ -66,24 +66,25 @@
 
   function renderPhotoGrid(album) {
     setTitle(album.title);
-    const bits = [fmtCount(album.images.length)];
-    if (album.date) bits.push(album.date);
-    pageSubtitle.textContent = bits.join(" · ");
+    pageSubtitle.textContent = "";
+    // const bits = [fmtCount(album.images.length)];
+    // if (album.date) bits.push(album.date);
+    // pageSubtitle.textContent = bits.join(" · ");
 
     app.innerHTML = "";
 
     const back = document.createElement("a");
     back.href = "#";
     back.className = "back-link";
-    back.textContent = "← todos os jogos";
+    back.textContent = "← Voltar";
     app.appendChild(back);
 
-    if (album.description) {
-      const p = document.createElement("p");
-      p.className = "muted";
-      p.textContent = album.description;
-      app.appendChild(p);
-    }
+    // if (album.description) {
+    //   const p = document.createElement("p");
+    //   p.className = "muted";
+    //   p.textContent = album.description;
+    //   app.appendChild(p);
+    // }
 
     const grid = document.createElement("div");
     grid.className = "photo-grid";
@@ -112,8 +113,9 @@
 
   function renderAlbumPicker(albums) {
     setTitle("Prints");
-    const total = albums.reduce((n, a) => n + a.images.length, 0);
-    pageSubtitle.textContent = fmtCount(total) + " · " + fmtGames(albums.length);
+    pageSubtitle.textContent = "";
+    // const total = albums.reduce((n, a) => n + a.images.length, 0);
+    // pageSubtitle.textContent = fmtCount(total) + " · " + fmtGames(albums.length);
 
     app.innerHTML = "";
     const grid = document.createElement("div");
