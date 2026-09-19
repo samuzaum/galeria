@@ -4,7 +4,13 @@
   const app = document.getElementById("app");
   const status = document.getElementById("status");
   const pageTitle = document.getElementById("page-title");
+  const pageWatermark = document.getElementById("page-watermark");
   const pageSubtitle = document.getElementById("page-subtitle");
+
+  function setTitle(text) {
+    pageTitle.textContent = text;
+    pageWatermark.textContent = text;
+  }
 
   const lightbox = document.getElementById("lightbox");
   const lbImg = document.getElementById("lb-img");
@@ -59,7 +65,7 @@
   });
 
   function renderPhotoGrid(album) {
-    pageTitle.textContent = album.title;
+    setTitle(album.title);
     const bits = [fmtCount(album.images.length)];
     if (album.date) bits.push(album.date);
     pageSubtitle.textContent = bits.join(" · ");
@@ -105,7 +111,7 @@
   }
 
   function renderAlbumPicker(albums) {
-    pageTitle.textContent = "Prints";
+    setTitle("Prints");
     const total = albums.reduce((n, a) => n + a.images.length, 0);
     pageSubtitle.textContent = fmtCount(total) + " · " + fmtGames(albums.length);
 

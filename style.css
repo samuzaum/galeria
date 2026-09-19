@@ -34,11 +34,47 @@ html, body {
 }
 
 .site-header {
-  padding: 40px 20px 14px;
+  padding: 48px 20px 14px;
   text-align: center;
 }
 
+.site-header .eyebrow {
+  display: block;
+  font-family: var(--font-sans);
+  font-size: .95rem;
+  font-weight: 700;
+  letter-spacing: .06em;
+  text-transform: uppercase;
+  color: var(--accent);
+  margin-bottom: .6rem;
+}
+
+.title-wrap {
+  position: relative;
+  display: inline-block;
+}
+
+.title-watermark {
+  position: absolute;
+  z-index: 0;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-family: var(--font-impact);
+  text-transform: uppercase;
+  font-weight: 400;
+  font-size: clamp(3.6rem, 15vw, 8.5rem);
+  line-height: .85;
+  white-space: nowrap;
+  color: transparent;
+  -webkit-text-stroke: 1.5px var(--line);
+  pointer-events: none;
+  user-select: none;
+}
+
 .site-header h1 {
+  position: relative;
+  z-index: 1;
   margin: 0 0 6px;
   font-family: var(--font-impact);
   font-weight: 400;
