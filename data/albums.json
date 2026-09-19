@@ -1,0 +1,608 @@
+{
+  "albums": [
+    {
+      "slug": "carros-gta",
+      "title": "Carros GTA",
+      "date": null,
+      "description": "Garagem e carros customizados no GTA Online.",
+      "images": [
+        {
+          "file": "images/carros-gta/20260823095149_1.jpg",
+          "thumb": "images/carros-gta/thumbs/20260823095149_1.jpg"
+        },
+        {
+          "file": "images/carros-gta/20260919093432_1.jpg",
+          "thumb": "images/carros-gta/thumbs/20260919093432_1.jpg"
+        },
+        {
+          "file": "images/carros-gta/20260919093922_1.jpg",
+          "thumb": "images/carros-gta/thumbs/20260919093922_1.jpg"
+        },
+        {
+          "file": "images/carros-gta/20260919100758_1.jpg",
+          "thumb": "images/carros-gta/thumbs/20260919100758_1.jpg"
+        },
+        {
+          "file": "images/carros-gta/20260919100808_1.jpg",
+          "thumb": "images/carros-gta/thumbs/20260919100808_1.jpg"
+        },
+        {
+          "file": "images/carros-gta/20260919100829_1.jpg",
+          "thumb": "images/carros-gta/thumbs/20260919100829_1.jpg"
+        },
+        {
+          "file": "images/carros-gta/20260919100836_1.jpg",
+          "thumb": "images/carros-gta/thumbs/20260919100836_1.jpg"
+        },
+        {
+          "file": "images/carros-gta/20260919100944_1.jpg",
+          "thumb": "images/carros-gta/thumbs/20260919100944_1.jpg"
+        },
+        {
+          "file": "images/carros-gta/20260919100951_1.jpg",
+          "thumb": "images/carros-gta/thumbs/20260919100951_1.jpg"
+        },
+        {
+          "file": "images/carros-gta/20260919101015_1.jpg",
+          "thumb": "images/carros-gta/thumbs/20260919101015_1.jpg"
+        },
+        {
+          "file": "images/carros-gta/20260919101024_1.jpg",
+          "thumb": "images/carros-gta/thumbs/20260919101024_1.jpg"
+        },
+        {
+          "file": "images/carros-gta/20260919101032_1.jpg",
+          "thumb": "images/carros-gta/thumbs/20260919101032_1.jpg"
+        },
+        {
+          "file": "images/carros-gta/20260919101039_1.jpg",
+          "thumb": "images/carros-gta/thumbs/20260919101039_1.jpg"
+        },
+        {
+          "file": "images/carros-gta/20260919101226_1.jpg",
+          "thumb": "images/carros-gta/thumbs/20260919101226_1.jpg"
+        },
+        {
+          "file": "images/carros-gta/20260919101537_1.jpg",
+          "thumb": "images/carros-gta/thumbs/20260919101537_1.jpg"
+        },
+        {
+          "file": "images/carros-gta/20260919101547_1.jpg",
+          "thumb": "images/carros-gta/thumbs/20260919101547_1.jpg"
+        },
+        {
+          "file": "images/carros-gta/20260919101556_1.jpg",
+          "thumb": "images/carros-gta/thumbs/20260919101556_1.jpg"
+        },
+        {
+          "file": "images/carros-gta/20260919101604_1.jpg",
+          "thumb": "images/carros-gta/thumbs/20260919101604_1.jpg"
+        },
+        {
+          "file": "images/carros-gta/20260919101612_1.jpg",
+          "thumb": "images/carros-gta/thumbs/20260919101612_1.jpg"
+        },
+        {
+          "file": "images/carros-gta/20260919101617_1.jpg",
+          "thumb": "images/carros-gta/thumbs/20260919101617_1.jpg"
+        },
+        {
+          "file": "images/carros-gta/20260919101625_1.jpg",
+          "thumb": "images/carros-gta/thumbs/20260919101625_1.jpg"
+        },
+        {
+          "file": "images/carros-gta/20260919101749_1.jpg",
+          "thumb": "images/carros-gta/thumbs/20260919101749_1.jpg"
+        },
+        {
+          "file": "images/carros-gta/20260919101756_1.jpg",
+          "thumb": "images/carros-gta/thumbs/20260919101756_1.jpg"
+        },
+        {
+          "file": "images/carros-gta/20260919101806_1.jpg",
+          "thumb": "images/carros-gta/thumbs/20260919101806_1.jpg"
+        },
+        {
+          "file": "images/carros-gta/20260919101818_1.jpg",
+          "thumb": "images/carros-gta/thumbs/20260919101818_1.jpg"
+        },
+        {
+          "file": "images/carros-gta/20260919101827_1.jpg",
+          "thumb": "images/carros-gta/thumbs/20260919101827_1.jpg"
+        },
+        {
+          "file": "images/carros-gta/20260919101834_1.jpg",
+          "thumb": "images/carros-gta/thumbs/20260919101834_1.jpg"
+        },
+        {
+          "file": "images/carros-gta/20260919101904_1.jpg",
+          "thumb": "images/carros-gta/thumbs/20260919101904_1.jpg"
+        },
+        {
+          "file": "images/carros-gta/20260919102429_1.jpg",
+          "thumb": "images/carros-gta/thumbs/20260919102429_1.jpg"
+        },
+        {
+          "file": "images/carros-gta/20260919102509_1.jpg",
+          "thumb": "images/carros-gta/thumbs/20260919102509_1.jpg"
+        },
+        {
+          "file": "images/carros-gta/20260919102516_1.jpg",
+          "thumb": "images/carros-gta/thumbs/20260919102516_1.jpg"
+        },
+        {
+          "file": "images/carros-gta/20260919102658_1.jpg",
+          "thumb": "images/carros-gta/thumbs/20260919102658_1.jpg"
+        },
+        {
+          "file": "images/carros-gta/20260919102743_1.jpg",
+          "thumb": "images/carros-gta/thumbs/20260919102743_1.jpg"
+        },
+        {
+          "file": "images/carros-gta/20260919102842_1.jpg",
+          "thumb": "images/carros-gta/thumbs/20260919102842_1.jpg"
+        },
+        {
+          "file": "images/carros-gta/20260919102857_1.jpg",
+          "thumb": "images/carros-gta/thumbs/20260919102857_1.jpg"
+        },
+        {
+          "file": "images/carros-gta/20260919102904_1.jpg",
+          "thumb": "images/carros-gta/thumbs/20260919102904_1.jpg"
+        },
+        {
+          "file": "images/carros-gta/20260919102911_1.jpg",
+          "thumb": "images/carros-gta/thumbs/20260919102911_1.jpg"
+        },
+        {
+          "file": "images/carros-gta/20260919102918_1.jpg",
+          "thumb": "images/carros-gta/thumbs/20260919102918_1.jpg"
+        },
+        {
+          "file": "images/carros-gta/20260919102925_1.jpg",
+          "thumb": "images/carros-gta/thumbs/20260919102925_1.jpg"
+        },
+        {
+          "file": "images/carros-gta/20260919102940_1.jpg",
+          "thumb": "images/carros-gta/thumbs/20260919102940_1.jpg"
+        },
+        {
+          "file": "images/carros-gta/20260919102944_1.jpg",
+          "thumb": "images/carros-gta/thumbs/20260919102944_1.jpg"
+        },
+        {
+          "file": "images/carros-gta/20260919102952_1.jpg",
+          "thumb": "images/carros-gta/thumbs/20260919102952_1.jpg"
+        },
+        {
+          "file": "images/carros-gta/20260919102959_1.jpg",
+          "thumb": "images/carros-gta/thumbs/20260919102959_1.jpg"
+        },
+        {
+          "file": "images/carros-gta/20260919103009_1.jpg",
+          "thumb": "images/carros-gta/thumbs/20260919103009_1.jpg"
+        },
+        {
+          "file": "images/carros-gta/20260919103016_1.jpg",
+          "thumb": "images/carros-gta/thumbs/20260919103016_1.jpg"
+        },
+        {
+          "file": "images/carros-gta/20260919103059_1.jpg",
+          "thumb": "images/carros-gta/thumbs/20260919103059_1.jpg"
+        },
+        {
+          "file": "images/carros-gta/20260919103105_1.jpg",
+          "thumb": "images/carros-gta/thumbs/20260919103105_1.jpg"
+        },
+        {
+          "file": "images/carros-gta/20260919103109_1.jpg",
+          "thumb": "images/carros-gta/thumbs/20260919103109_1.jpg"
+        },
+        {
+          "file": "images/carros-gta/20260919103329_1.jpg",
+          "thumb": "images/carros-gta/thumbs/20260919103329_1.jpg"
+        },
+        {
+          "file": "images/carros-gta/20260919103707_1.jpg",
+          "thumb": "images/carros-gta/thumbs/20260919103707_1.jpg"
+        },
+        {
+          "file": "images/carros-gta/20260919103714_1.jpg",
+          "thumb": "images/carros-gta/thumbs/20260919103714_1.jpg"
+        },
+        {
+          "file": "images/carros-gta/20260919103721_1.jpg",
+          "thumb": "images/carros-gta/thumbs/20260919103721_1.jpg"
+        },
+        {
+          "file": "images/carros-gta/20260919103830_1.jpg",
+          "thumb": "images/carros-gta/thumbs/20260919103830_1.jpg"
+        },
+        {
+          "file": "images/carros-gta/20260919103837_1.jpg",
+          "thumb": "images/carros-gta/thumbs/20260919103837_1.jpg"
+        },
+        {
+          "file": "images/carros-gta/20260919104052_1.jpg",
+          "thumb": "images/carros-gta/thumbs/20260919104052_1.jpg"
+        },
+        {
+          "file": "images/carros-gta/20260919104100_1.jpg",
+          "thumb": "images/carros-gta/thumbs/20260919104100_1.jpg"
+        },
+        {
+          "file": "images/carros-gta/20260919104107_1.jpg",
+          "thumb": "images/carros-gta/thumbs/20260919104107_1.jpg"
+        },
+        {
+          "file": "images/carros-gta/20260919104243_1.jpg",
+          "thumb": "images/carros-gta/thumbs/20260919104243_1.jpg"
+        },
+        {
+          "file": "images/carros-gta/20260919104249_1.jpg",
+          "thumb": "images/carros-gta/thumbs/20260919104249_1.jpg"
+        },
+        {
+          "file": "images/carros-gta/20260919104256_1.jpg",
+          "thumb": "images/carros-gta/thumbs/20260919104256_1.jpg"
+        },
+        {
+          "file": "images/carros-gta/20260919104656_1.jpg",
+          "thumb": "images/carros-gta/thumbs/20260919104656_1.jpg"
+        },
+        {
+          "file": "images/carros-gta/20260919104704_1.jpg",
+          "thumb": "images/carros-gta/thumbs/20260919104704_1.jpg"
+        },
+        {
+          "file": "images/carros-gta/20260919104714_1.jpg",
+          "thumb": "images/carros-gta/thumbs/20260919104714_1.jpg"
+        },
+        {
+          "file": "images/carros-gta/20260919104720_1.jpg",
+          "thumb": "images/carros-gta/thumbs/20260919104720_1.jpg"
+        },
+        {
+          "file": "images/carros-gta/20260919104809_1.jpg",
+          "thumb": "images/carros-gta/thumbs/20260919104809_1.jpg"
+        },
+        {
+          "file": "images/carros-gta/20260919104818_1.jpg",
+          "thumb": "images/carros-gta/thumbs/20260919104818_1.jpg"
+        },
+        {
+          "file": "images/carros-gta/20260919104825_1.jpg",
+          "thumb": "images/carros-gta/thumbs/20260919104825_1.jpg"
+        },
+        {
+          "file": "images/carros-gta/20260919104831_1.jpg",
+          "thumb": "images/carros-gta/thumbs/20260919104831_1.jpg"
+        },
+        {
+          "file": "images/carros-gta/20260919105130_1.jpg",
+          "thumb": "images/carros-gta/thumbs/20260919105130_1.jpg"
+        },
+        {
+          "file": "images/carros-gta/20260919105137_1.jpg",
+          "thumb": "images/carros-gta/thumbs/20260919105137_1.jpg"
+        },
+        {
+          "file": "images/carros-gta/20260919105145_1.jpg",
+          "thumb": "images/carros-gta/thumbs/20260919105145_1.jpg"
+        },
+        {
+          "file": "images/carros-gta/20260919105305_1.jpg",
+          "thumb": "images/carros-gta/thumbs/20260919105305_1.jpg"
+        },
+        {
+          "file": "images/carros-gta/20260919105312_1.jpg",
+          "thumb": "images/carros-gta/thumbs/20260919105312_1.jpg"
+        },
+        {
+          "file": "images/carros-gta/20260919105318_1.jpg",
+          "thumb": "images/carros-gta/thumbs/20260919105318_1.jpg"
+        },
+        {
+          "file": "images/carros-gta/20260919105356_1.jpg",
+          "thumb": "images/carros-gta/thumbs/20260919105356_1.jpg"
+        },
+        {
+          "file": "images/carros-gta/20260919105417_1.jpg",
+          "thumb": "images/carros-gta/thumbs/20260919105417_1.jpg"
+        },
+        {
+          "file": "images/carros-gta/20260919110044_1.jpg",
+          "thumb": "images/carros-gta/thumbs/20260919110044_1.jpg"
+        },
+        {
+          "file": "images/carros-gta/20260919110119_1.jpg",
+          "thumb": "images/carros-gta/thumbs/20260919110119_1.jpg"
+        },
+        {
+          "file": "images/carros-gta/20260919110151_1.jpg",
+          "thumb": "images/carros-gta/thumbs/20260919110151_1.jpg"
+        },
+        {
+          "file": "images/carros-gta/20260919110158_1.jpg",
+          "thumb": "images/carros-gta/thumbs/20260919110158_1.jpg"
+        },
+        {
+          "file": "images/carros-gta/20260919110204_1.jpg",
+          "thumb": "images/carros-gta/thumbs/20260919110204_1.jpg"
+        },
+        {
+          "file": "images/carros-gta/20260919110211_1.jpg",
+          "thumb": "images/carros-gta/thumbs/20260919110211_1.jpg"
+        },
+        {
+          "file": "images/carros-gta/20260919110218_1.jpg",
+          "thumb": "images/carros-gta/thumbs/20260919110218_1.jpg"
+        },
+        {
+          "file": "images/carros-gta/20260919110224_1.jpg",
+          "thumb": "images/carros-gta/thumbs/20260919110224_1.jpg"
+        },
+        {
+          "file": "images/carros-gta/20260919110233_1.jpg",
+          "thumb": "images/carros-gta/thumbs/20260919110233_1.jpg"
+        },
+        {
+          "file": "images/carros-gta/20260919110307_1.jpg",
+          "thumb": "images/carros-gta/thumbs/20260919110307_1.jpg"
+        },
+        {
+          "file": "images/carros-gta/20260919110345_1.jpg",
+          "thumb": "images/carros-gta/thumbs/20260919110345_1.jpg"
+        },
+        {
+          "file": "images/carros-gta/20260919110521_1.jpg",
+          "thumb": "images/carros-gta/thumbs/20260919110521_1.jpg"
+        },
+        {
+          "file": "images/carros-gta/20260919110953_1.jpg",
+          "thumb": "images/carros-gta/thumbs/20260919110953_1.jpg"
+        },
+        {
+          "file": "images/carros-gta/20260919110959_1.jpg",
+          "thumb": "images/carros-gta/thumbs/20260919110959_1.jpg"
+        },
+        {
+          "file": "images/carros-gta/20260919111007_1.jpg",
+          "thumb": "images/carros-gta/thumbs/20260919111007_1.jpg"
+        },
+        {
+          "file": "images/carros-gta/20260919111013_1.jpg",
+          "thumb": "images/carros-gta/thumbs/20260919111013_1.jpg"
+        },
+        {
+          "file": "images/carros-gta/20260919111152_1.jpg",
+          "thumb": "images/carros-gta/thumbs/20260919111152_1.jpg"
+        },
+        {
+          "file": "images/carros-gta/20260919111159_1.jpg",
+          "thumb": "images/carros-gta/thumbs/20260919111159_1.jpg"
+        },
+        {
+          "file": "images/carros-gta/20260919111206_1.jpg",
+          "thumb": "images/carros-gta/thumbs/20260919111206_1.jpg"
+        },
+        {
+          "file": "images/carros-gta/20260919111213_1.jpg",
+          "thumb": "images/carros-gta/thumbs/20260919111213_1.jpg"
+        },
+        {
+          "file": "images/carros-gta/20260919111248_1.jpg",
+          "thumb": "images/carros-gta/thumbs/20260919111248_1.jpg"
+        },
+        {
+          "file": "images/carros-gta/20260919111255_1.jpg",
+          "thumb": "images/carros-gta/thumbs/20260919111255_1.jpg"
+        },
+        {
+          "file": "images/carros-gta/20260919111406_1.jpg",
+          "thumb": "images/carros-gta/thumbs/20260919111406_1.jpg"
+        },
+        {
+          "file": "images/carros-gta/20260919111412_1.jpg",
+          "thumb": "images/carros-gta/thumbs/20260919111412_1.jpg"
+        },
+        {
+          "file": "images/carros-gta/20260919111419_1.jpg",
+          "thumb": "images/carros-gta/thumbs/20260919111419_1.jpg"
+        },
+        {
+          "file": "images/carros-gta/20260919111519_1.jpg",
+          "thumb": "images/carros-gta/thumbs/20260919111519_1.jpg"
+        },
+        {
+          "file": "images/carros-gta/20260919111527_1.jpg",
+          "thumb": "images/carros-gta/thumbs/20260919111527_1.jpg"
+        },
+        {
+          "file": "images/carros-gta/20260919111534_1.jpg",
+          "thumb": "images/carros-gta/thumbs/20260919111534_1.jpg"
+        },
+        {
+          "file": "images/carros-gta/20260919111541_1.jpg",
+          "thumb": "images/carros-gta/thumbs/20260919111541_1.jpg"
+        },
+        {
+          "file": "images/carros-gta/20260919111551_1.jpg",
+          "thumb": "images/carros-gta/thumbs/20260919111551_1.jpg"
+        },
+        {
+          "file": "images/carros-gta/20260919111602_1.jpg",
+          "thumb": "images/carros-gta/thumbs/20260919111602_1.jpg"
+        },
+        {
+          "file": "images/carros-gta/20260919111610_1.jpg",
+          "thumb": "images/carros-gta/thumbs/20260919111610_1.jpg"
+        },
+        {
+          "file": "images/carros-gta/20260919111621_1.jpg",
+          "thumb": "images/carros-gta/thumbs/20260919111621_1.jpg"
+        },
+        {
+          "file": "images/carros-gta/20260919111626_1.jpg",
+          "thumb": "images/carros-gta/thumbs/20260919111626_1.jpg"
+        },
+        {
+          "file": "images/carros-gta/20260919111633_1.jpg",
+          "thumb": "images/carros-gta/thumbs/20260919111633_1.jpg"
+        },
+        {
+          "file": "images/carros-gta/20260919111714_1.jpg",
+          "thumb": "images/carros-gta/thumbs/20260919111714_1.jpg"
+        },
+        {
+          "file": "images/carros-gta/20260919111729_1.jpg",
+          "thumb": "images/carros-gta/thumbs/20260919111729_1.jpg"
+        },
+        {
+          "file": "images/carros-gta/20260919111738_1.jpg",
+          "thumb": "images/carros-gta/thumbs/20260919111738_1.jpg"
+        },
+        {
+          "file": "images/carros-gta/20260919111742_1.jpg",
+          "thumb": "images/carros-gta/thumbs/20260919111742_1.jpg"
+        },
+        {
+          "file": "images/carros-gta/20260919111749_1.jpg",
+          "thumb": "images/carros-gta/thumbs/20260919111749_1.jpg"
+        },
+        {
+          "file": "images/carros-gta/20260919111757_1.jpg",
+          "thumb": "images/carros-gta/thumbs/20260919111757_1.jpg"
+        },
+        {
+          "file": "images/carros-gta/20260919111832_1.jpg",
+          "thumb": "images/carros-gta/thumbs/20260919111832_1.jpg"
+        },
+        {
+          "file": "images/carros-gta/20260919111839_1.jpg",
+          "thumb": "images/carros-gta/thumbs/20260919111839_1.jpg"
+        },
+        {
+          "file": "images/carros-gta/20260919111846_1.jpg",
+          "thumb": "images/carros-gta/thumbs/20260919111846_1.jpg"
+        },
+        {
+          "file": "images/carros-gta/20260919111854_1.jpg",
+          "thumb": "images/carros-gta/thumbs/20260919111854_1.jpg"
+        },
+        {
+          "file": "images/carros-gta/20260919111929_1.jpg",
+          "thumb": "images/carros-gta/thumbs/20260919111929_1.jpg"
+        },
+        {
+          "file": "images/carros-gta/20260919111936_1.jpg",
+          "thumb": "images/carros-gta/thumbs/20260919111936_1.jpg"
+        },
+        {
+          "file": "images/carros-gta/20260919111944_1.jpg",
+          "thumb": "images/carros-gta/thumbs/20260919111944_1.jpg"
+        },
+        {
+          "file": "images/carros-gta/20260919111951_1.jpg",
+          "thumb": "images/carros-gta/thumbs/20260919111951_1.jpg"
+        },
+        {
+          "file": "images/carros-gta/20260919112001_1.jpg",
+          "thumb": "images/carros-gta/thumbs/20260919112001_1.jpg"
+        },
+        {
+          "file": "images/carros-gta/20260919112052_1.jpg",
+          "thumb": "images/carros-gta/thumbs/20260919112052_1.jpg"
+        },
+        {
+          "file": "images/carros-gta/20260919112219_1.jpg",
+          "thumb": "images/carros-gta/thumbs/20260919112219_1.jpg"
+        },
+        {
+          "file": "images/carros-gta/20260919112407_1.jpg",
+          "thumb": "images/carros-gta/thumbs/20260919112407_1.jpg"
+        },
+        {
+          "file": "images/carros-gta/20260919112416_1.jpg",
+          "thumb": "images/carros-gta/thumbs/20260919112416_1.jpg"
+        },
+        {
+          "file": "images/carros-gta/20260919112423_1.jpg",
+          "thumb": "images/carros-gta/thumbs/20260919112423_1.jpg"
+        },
+        {
+          "file": "images/carros-gta/20260919112429_1.jpg",
+          "thumb": "images/carros-gta/thumbs/20260919112429_1.jpg"
+        },
+        {
+          "file": "images/carros-gta/20260919112436_1.jpg",
+          "thumb": "images/carros-gta/thumbs/20260919112436_1.jpg"
+        },
+        {
+          "file": "images/carros-gta/20260919112443_1.jpg",
+          "thumb": "images/carros-gta/thumbs/20260919112443_1.jpg"
+        },
+        {
+          "file": "images/carros-gta/20260919112450_1.jpg",
+          "thumb": "images/carros-gta/thumbs/20260919112450_1.jpg"
+        },
+        {
+          "file": "images/carros-gta/20260919112457_1.jpg",
+          "thumb": "images/carros-gta/thumbs/20260919112457_1.jpg"
+        },
+        {
+          "file": "images/carros-gta/20260919112504_1.jpg",
+          "thumb": "images/carros-gta/thumbs/20260919112504_1.jpg"
+        },
+        {
+          "file": "images/carros-gta/20260919112619_1.jpg",
+          "thumb": "images/carros-gta/thumbs/20260919112619_1.jpg"
+        },
+        {
+          "file": "images/carros-gta/20260919112626_1.jpg",
+          "thumb": "images/carros-gta/thumbs/20260919112626_1.jpg"
+        },
+        {
+          "file": "images/carros-gta/20260919112632_1.jpg",
+          "thumb": "images/carros-gta/thumbs/20260919112632_1.jpg"
+        },
+        {
+          "file": "images/carros-gta/20260919112657_1.jpg",
+          "thumb": "images/carros-gta/thumbs/20260919112657_1.jpg"
+        },
+        {
+          "file": "images/carros-gta/20260919112704_1.jpg",
+          "thumb": "images/carros-gta/thumbs/20260919112704_1.jpg"
+        },
+        {
+          "file": "images/carros-gta/20260919112909_1.jpg",
+          "thumb": "images/carros-gta/thumbs/20260919112909_1.jpg"
+        },
+        {
+          "file": "images/carros-gta/20260919112915_1.jpg",
+          "thumb": "images/carros-gta/thumbs/20260919112915_1.jpg"
+        },
+        {
+          "file": "images/carros-gta/20260919112922_1.jpg",
+          "thumb": "images/carros-gta/thumbs/20260919112922_1.jpg"
+        },
+        {
+          "file": "images/carros-gta/20260919112929_1.jpg",
+          "thumb": "images/carros-gta/thumbs/20260919112929_1.jpg"
+        },
+        {
+          "file": "images/carros-gta/20260919113158_1.jpg",
+          "thumb": "images/carros-gta/thumbs/20260919113158_1.jpg"
+        },
+        {
+          "file": "images/carros-gta/20260919113204_1.jpg",
+          "thumb": "images/carros-gta/thumbs/20260919113204_1.jpg"
+        },
+        {
+          "file": "images/carros-gta/20260919113211_1.jpg",
+          "thumb": "images/carros-gta/thumbs/20260919113211_1.jpg"
+        }
+      ]
+    }
+  ]
+}
